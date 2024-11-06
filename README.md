@@ -1,4 +1,4 @@
-# DDoS Detection App
+# DDoS Detection
 
 This app uses machine learning to detect DDoS attacks based on network data. It includes preprocessing, model training, and testing functionality.
 
